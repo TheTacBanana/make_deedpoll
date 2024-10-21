@@ -55,6 +55,9 @@ the adopted name of #NEWNAME.
 *#smallcaps[In witness]* whereof I have hereunto subscribed my adopted and substituted name of #NEWNAME and also my said
 former name of #OLDNAME.
 
+Notwithstanding the decision of Mr Justice Vaisey in re Parrott, Cox v Parrott [1946] Ch 183, the applicant wishes the
+enrolment to proceed.
+
 *#smallcaps[Signed as a Deed this #nth(CURRENT_DAY.day()) day of #CURRENT_DAY.display("[month repr:long]") in the year #CURRENT_DAY.year()]*
 
 #let SIGNATURE_LINE = {
